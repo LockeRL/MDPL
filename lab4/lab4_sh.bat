@@ -1,0 +1,1 @@
+ml lab4/main.asm lab4/input.asm lab4/process.asm lab4/print.asm
